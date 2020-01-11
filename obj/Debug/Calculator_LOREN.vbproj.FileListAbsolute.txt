@@ -1,0 +1,11 @@
+C:\Users\JC\source\repos\tri\Calculator\bin\Debug\Calculator_LOREN.exe.config
+C:\Users\JC\source\repos\tri\Calculator\bin\Debug\Calculator_LOREN.exe
+C:\Users\JC\source\repos\tri\Calculator\bin\Debug\Calculator_LOREN.pdb
+C:\Users\JC\source\repos\tri\Calculator\bin\Debug\Calculator_LOREN.xml
+C:\Users\JC\source\repos\tri\Calculator\obj\Debug\Calculator_LOREN.vbprojAssemblyReference.cache
+C:\Users\JC\source\repos\tri\Calculator\obj\Debug\Calculator_LOREN.Form1.resources
+C:\Users\JC\source\repos\tri\Calculator\obj\Debug\Calculator_LOREN.Resources.resources
+C:\Users\JC\source\repos\tri\Calculator\obj\Debug\Calculator_LOREN.vbproj.GenerateResource.cache
+C:\Users\JC\source\repos\tri\Calculator\obj\Debug\Calculator_LOREN.exe
+C:\Users\JC\source\repos\tri\Calculator\obj\Debug\Calculator_LOREN.xml
+C:\Users\JC\source\repos\tri\Calculator\obj\Debug\Calculator_LOREN.pdb
